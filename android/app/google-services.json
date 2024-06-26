@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "741958141354",
+    "project_id": "fa-piano-1",
+    "storage_bucket": "fa-piano-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741958141354:android:9ec1a4a364217dccc417d3",
+        "android_client_info": {
+          "package_name": "com.fa_piano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741958141354-ctqcnff892ckuuhkpgc8i2il53796lib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fa_piano",
+            "certificate_hash": "2a5edf0c86c93ce198efc488caec13016f597f75"
+          }
+        },
+        {
+          "client_id": "741958141354-u5iiit665oneqmt8vpokp63d507cggbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgZ7LSE5mBOXX85WrhVFvQntL6EM48ikI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741958141354-u5iiit665oneqmt8vpokp63d507cggbg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "741958141354-1pvv7j3egqu5k338j4c4j13iiq9a98u2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.faPianoApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
